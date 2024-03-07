@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+.pipi{
+    color: #EB92EE;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+
+}
+.pepe {
+    color: #9095BF;
+      font-family: "Micro 5", sans-serif;	
+}
+
+#haha {
+    color: #D876D5;	
+}
+
+.mybox {
+    width: 73px;
+    height: 200px;
+    border: 20px solid #DA4346;
+    background-color: #B557B1;
+    margin-top: 9px;
+    margin-right: 9px;
+    margin-bottom: 9px;
+    margin-left: 9px;
+    border-top-right-radius: 6px;
+}
+
+.mypepe1{
+    background-color: #FB8587;	
+}
+
+.mypepe2{
+    background-color: #DCB5EE;	
+}
+
+.mypepe3{
+    background-color: #B8E7A0;	
+}
+
+.btn    {
+	 background-color: #B557B1;
+	
+}
